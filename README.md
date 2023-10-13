@@ -2,9 +2,9 @@
   <h1>Привет 👋, меня зовут Владимир</h1>
   <h3>Начинающий Java backend-developer</h3>
   
-  - 🌱 Сейчас изучаю **Spring Security**
+🌱 Сейчас изучаю **Spring Security**
   
-  - 📫 Контакты **lil.rhymes9@gmail.com**
+📫 Контакты **lil.rhymes9@gmail.com**
   
   <h3 align="left">Connect with me:</h3>
   
