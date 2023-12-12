@@ -39,6 +39,5 @@
   </a>
   
    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samthezpub" alt="samthezpub" /></p>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samthezpub&layout=compact)
 </p>
 
