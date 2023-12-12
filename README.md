@@ -39,6 +39,6 @@
   </a>
   
    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samthezpub" alt="samthezpub" /></p>
-   [![GitHub Trends SVG](https://api.githubtrends.io/samthezpub/svg/avgupta456/langs)](https://githubtrends.io)
+   [[![GitHub Trends SVG](https://api.githubtrends.io/samthezpub/svg/avgupta456/langs)](https://githubtrends.io)](https://api.githubtrends.io/user/svg/samthezpub/repos?time_range=one_year&theme=classic)https://api.githubtrends.io/user/svg/samthezpub/repos?time_range=one_year&theme=classic
 </p>
 
