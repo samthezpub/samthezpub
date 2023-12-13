@@ -2,7 +2,7 @@
   <h1>Привет 👋, меня зовут Владимир</h1>
   <h3>Начинающий Java backend-developer</h3>
   
-🌱 Сейчас изучаю **Основы Spring, Spring Web**
+🌱 Сейчас изучаю **Docker, Spring MVC**
   
 📫 Контакты **lil.rhymes9@gmail.com**
   
