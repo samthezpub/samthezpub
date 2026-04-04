@@ -6,7 +6,9 @@
 Пишу backend на Python: API, бизнес-логика, интеграции, базы данных и серверные сервисы.  
 Люблю разбираться в архитектуре, упрощать сложные вещи и делать системы стабильнее и понятнее.
 
-📫 **Контакты:** lil.rhymes9@gmail.com
+📫 **Контакты:**  
+**Email:** lil.rhymes9@gmail.com  
+**Telegram:** [@vladimirmirgorodskiy](https://t.me/vladimirmirgorodskiy)
 
 </div>
 
