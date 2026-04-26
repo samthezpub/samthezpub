@@ -1,58 +1,168 @@
-<div align="center">
+<h1 align="center">Hi, I'm Vladimir 👋</h1>
 
-# Привет 👋, я Владимир
-### Python Backend Developer
+<h3 align="center">
+Python Backend Developer · FastAPI / Django · PostgreSQL · Docker
+</h3>
 
-Пишу backend на Python: API, бизнес-логика, интеграции, базы данных и серверные сервисы.  
-Люблю разбираться в архитектуре, упрощать сложные вещи и делать системы стабильнее и понятнее.
+<p align="center">
+I build backend services, REST APIs, integrations and AI-powered products.
+</p>
 
-📫 **Контакты:**  
-**Email:** lil.rhymes9@gmail.com  
-**Telegram:** [@vladimirmirgorodskiy](https://t.me/vladimirmirgorodskiy)
-
-</div>
-
----
-
-## 🚀 About Me
-
-- Backend developer with focus on **Python**
-- Build **REST API**, integrations and backend services
-- Work with **databases**, **containers**, deployment and system logic
-- Interested in **architecture**, **scalable systems** and strong engineering practices
+<p align="center">
+  <a href="mailto:lil.rhymes9@gmail.com">Email</a> ·
+  <a href="https://t.me/vladimirmirgorodskiy">Telegram</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+I'm a Python backend developer focused on building practical, reliable and maintainable backend systems.
+
+I work with API development, business logic, databases, integrations, deployment and server-side infrastructure.  
+I also have experience with AI-powered products, including candidate scoring, LLM-based assistants and automation workflows.
+
+My main engineering interests are backend architecture, clean API design, system reliability and maintainable code.
+
+---
+
+## Tech Stack
 
 ### Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40">&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40">
-</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Databases & Messaging
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40">&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40">&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40">
-</p>
 
-### DevOps & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40">&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40">&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">&nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">&nbsp;<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40">
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### AI Tools I Use When Needed
+
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Learning & Knowledge Tools
+
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Google NotebookLM](https://img.shields.io/badge/Google_NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=excalidraw&logoColor=white)
+[![Self-Written Study Notes](https://img.shields.io/badge/Self--Written_Study_Notes-181717?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/samthezpub/9c6eefa3cd76e9eba5f58a5820790d88)
+
 ---
 
-## 💡 What I Do
+## What I Work On
 
-- Design and develop backend services
-- Build and maintain REST API
-- Work with integrations and asynchronous flows
-- Improve codebase consistency and system behavior
-- Think not only about code, but also about reliability and maintainability
+- Backend services and REST APIs with Python
+- PostgreSQL database design and backend data models
+- Authentication, integrations and business logic
+- Docker-based deployment and Linux server setup
+- AI integrations, LLM-based workflows and automation tools
+- Improving backend reliability, maintainability and project structure
 
 ---
 
-## 📈 GitHub Stats
+## Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samthezpub" alt="GitHub streak stats" />
-</div>
+### [Trade Informer](https://github.com/samthezpub/trade-informer)
+
+Investment monitoring bot concept for tracking stock positions, calculating potential profit and sending trading signals.
+
+**What it shows:**
+
+- backend-oriented project structure;
+- separation of business logic from external data providers;
+- work with financial data;
+- adapter-based architecture;
+- practical automation idea.
+
+**Stack:** Python, MOEX API, Telegram notifications, Hexagonal Architecture
+
+---
+
+### [TZ Mobile Backend](https://github.com/samthezpub/tz-mobile)
+
+Django REST Framework backend prototype for a mobile-related test assignment.
+
+**What it includes:**
+
+- user registration and authentication;
+- JWT-based login;
+- roles and permissions;
+- PostgreSQL configuration;
+- basic domain entities for products, stores and orders.
+
+**Stack:** Python, Django, Django REST Framework, PostgreSQL, JWT
+
+---
+
+### AI Voice Interviewer
+
+Commercial/NDA project: backend and integration work for an AI-powered voice interviewer.
+
+**What I worked on:**
+
+- backend API logic;
+- AI service integrations;
+- voice interview flow support;
+- interaction between product logic and external AI tools;
+- reliability and debugging of backend behavior.
+
+**Stack:** Python, FastAPI, AI integrations, WebSocket/WebRTC-related backend logic
+
+---
+
+### Private Backend & AI Projects
+
+A set of private and commercial projects related to backend development, AI automation and internal business tools.
+
+**Areas I worked with:**
+
+- REST API development;
+- integrations with external services;
+- authentication and access control;
+- database models and backend business logic;
+- deployment and server configuration;
+- LLM-based automation workflows.
+
+**Stack:** Python, FastAPI, Django, PostgreSQL, Redis, Docker, Nginx, Linux
+
+---
+
+## Engineering Focus
+
+I care about writing backend code that is not only working, but also understandable, maintainable and ready for real product usage.
+
+For me, good backend development means:
+
+- clear API contracts;
+- predictable business logic;
+- well-structured database models;
+- stable integrations;
+- readable code;
+- practical deployment process;
+- simple solutions where possible.
+
+---
+
+## Contacts
+
+- Email: **lil.rhymes9@gmail.com**
+- Telegram: [@vladimirmirgorodskiy](https://t.me/vladimirmirgorodskiy)
