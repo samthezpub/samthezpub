@@ -52,13 +52,6 @@ My main engineering interests are backend architecture, clean API design, system
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### AI Tools I Use When Needed
-
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-
 ### Learning & Knowledge Tools
 
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
@@ -113,22 +106,6 @@ Django REST Framework backend prototype for a mobile-related test assignment.
 
 ---
 
-### AI Voice Interviewer
-
-Commercial/NDA project: backend and integration work for an AI-powered voice interviewer.
-
-**What I worked on:**
-
-- backend API logic;
-- AI service integrations;
-- voice interview flow support;
-- interaction between product logic and external AI tools;
-- reliability and debugging of backend behavior.
-
-**Stack:** Python, FastAPI, AI integrations, WebSocket/WebRTC-related backend logic
-
----
-
 ### Private Backend & AI Projects
 
 A set of private and commercial projects related to backend development, AI automation and internal business tools.
@@ -164,5 +141,5 @@ For me, good backend development means:
 
 ## Contacts
 
-- Email: **lil.rhymes9@gmail.com**
-- Telegram: [@vladimirmirgorodskiy](https://t.me/vladimirmirgorodskiy)
+- Email: **vl.mirgorodskiy@yandex.ru**
+- Telegram: [@vladimirmirgorodsky](https://t.me/vladimirmirgorodsky)
