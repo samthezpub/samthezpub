@@ -9,8 +9,8 @@ I build backend services, REST APIs, integrations and AI-powered products.
 </p>
 
 <p align="center">
-  <a href="mailto:lil.rhymes9@gmail.com">Email</a> ·
-  <a href="https://t.me/vladimirmirgorodskiy">Telegram</a>
+  <a href="mailto:vl.mirgorodskiy@yandex.com">Email</a> ·
+  <a href="https://t.me/vladimirmirgorodsky">Telegram</a>
 </p>
 
 ---
